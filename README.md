@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Tulyaa Sreerala 
-- 👀  A third-year undergraduate at Keshav Memorial Institute of Technology,passionate about learning new technologies.
-- 🌱 I’m currently learning Artificial Intelligence and Machine learning.
-- 📫 How to reach me  mailtulyaa@gmail.com
+- 👀  A Undergraduate at Keshav Memorial Institute of Technology,passionate about learning new technologies.
+- 🌱Artificial Intelligence and Machine learning Enthusiastic.
+- 📫 How to reach me  tulyaasreerala@gmail.com
   
 
 <!---
